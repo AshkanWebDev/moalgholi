@@ -14,4 +14,6 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=moalgholi&style=flat-square&color=blue" align="center" alt=""/>
+<div id="github-viewer" align="center">
+  <img src="https://komarev.com/ghpvc/?username=moalgholi&style=flat-square&color=blue" alt=""/>
+</div>
