@@ -71,6 +71,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-<div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moalgholi&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moalgholi&theme=dark&background=000000)](https://git.io/streak-stats)
