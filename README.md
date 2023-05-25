@@ -72,7 +72,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=moalgholi&theme=dark&background=000000"/>
+  <a href="https://github.com/moalgholi">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=moalgholi&theme=dark&background=000000"/>
+  </a>
 </div>
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moalgholi&theme=dark&background=000000)](https://git.io/streak-stats) -->
