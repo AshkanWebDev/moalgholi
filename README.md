@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mohammad-ali-gholizadeh-6847671b2/">
+  <a href="https://www.linkedin.com/in/mohammad-ali-gholizadeh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCBbYQ1vV8EV0b-wU2pCl2tQ">
