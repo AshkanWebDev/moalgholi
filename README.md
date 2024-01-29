@@ -78,3 +78,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="http://github-readme-streak-stats.herokuapp.com?user=moalgholi&theme=dark&background=000000"/>
   </a>
 </div>
+
+
+<details>
+  <summary> More things </summary>
+  <br>
+  <p align="center">
+    <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=moalgholi&layout=compact" /></a>
+  </p>
+  <p>
+    - 🌱 I’m currently learning blockchain.<br/>
+    - 🤔 I’m looking for a stable, long-term full time job<br/>
+    - 💬 Ask me about Blockchain, React, Django and Laravel.<br/>
+    - ⚡ Fun fact: Sport - Soccer, Tennis<br/>
+  </p> 
+  
+</details>
