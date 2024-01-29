@@ -84,6 +84,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <summary> More things </summary>
   <br>
   <p align="center">
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=moalgholi&layout=compact" />
+    <a href="https://github.com/moalgholi">
+      <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=moalgholi&layout=compact" />
+    </a>
   </p> 
 </details>
