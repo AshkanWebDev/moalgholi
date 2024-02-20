@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/mohammad-ali-gholizadeh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCBbYQ1vV8EV0b-wU2pCl2tQ">
+  <a href="https://www.youtube.com/@mohammadaliacademy">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/moalgholi">
